@@ -1,0 +1,3 @@
+D:\Publish\MyWebAPI.Data.dll
+D:\Publish\MyWebAPI.Data.deps.json
+D:\Publish\MyWebAPI.Data.pdb

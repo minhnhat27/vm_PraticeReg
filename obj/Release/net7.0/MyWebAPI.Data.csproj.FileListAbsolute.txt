@@ -1,0 +1,12 @@
+D:\Project\MyWebAPI.Data\bin\Release\net7.0\MyWebAPI.Data.deps.json
+D:\Project\MyWebAPI.Data\bin\Release\net7.0\MyWebAPI.Data.dll
+D:\Project\MyWebAPI.Data\bin\Release\net7.0\MyWebAPI.Data.pdb
+D:\Project\MyWebAPI.Data\obj\Release\net7.0\MyWebAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\MyWebAPI.Data\obj\Release\net7.0\MyWebAPI.Data.AssemblyInfoInputs.cache
+D:\Project\MyWebAPI.Data\obj\Release\net7.0\MyWebAPI.Data.AssemblyInfo.cs
+D:\Project\MyWebAPI.Data\obj\Release\net7.0\MyWebAPI.Data.csproj.CoreCompileInputs.cache
+D:\Project\MyWebAPI.Data\obj\Release\net7.0\MyWebAPI.Data.dll
+D:\Project\MyWebAPI.Data\obj\Release\net7.0\refint\MyWebAPI.Data.dll
+D:\Project\MyWebAPI.Data\obj\Release\net7.0\MyWebAPI.Data.pdb
+D:\Project\MyWebAPI.Data\obj\Release\net7.0\ref\MyWebAPI.Data.dll
+D:\Project\MyWebAPI.Data\obj\Release\net7.0\MyWebAPI.Data.csproj.AssemblyReference.cache
